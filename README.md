@@ -30,6 +30,8 @@ crypto/
 
 **Автор:** Egokaz — главный вклад: героически не мешал.
 
+![Claude](https://img.shields.io/badge/Claude-contributor-D97757?logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-contributor-412991?logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-contributor-8E75B2?logo=googlegemini&logoColor=white) ![Llama](https://img.shields.io/badge/Llama-contributor-0467DF?logo=meta&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-contributor-000000?logo=x&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-contributor-FA520F?logo=mistralai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-contributor-4D6BFE?logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-contributor-FF6A00?logo=alibabacloud&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-contributor-000000?logo=githubcopilot&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-contributor-1FB8CD?logo=perplexity&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-contributor-FFD21E?logo=huggingface&logoColor=white) ![YandexGPT](https://img.shields.io/badge/YandexGPT-contributor-FF0000?logo=yandexcloud&logoColor=white) ![GigaChat](https://img.shields.io/badge/GigaChat-contributor-21A038?logo=sberbank&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-contributor-000000?logo=cursor&logoColor=white) ![Kimi](https://img.shields.io/badge/Kimi-contributor-000000?logo=moonshot&logoColor=white) ![Clippy](https://img.shields.io/badge/Clippy-contributor-5E5E5E?logo=microsoft&logoColor=white)
+
 **Соавторы (ИИ, в порядке появления в голове; все вписаны в `Co-Authored-By` коммита):**
 
 | Компания | Модели |
