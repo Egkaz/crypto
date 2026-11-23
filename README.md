@@ -25,3 +25,40 @@ crypto/
 Открыть `sw20261123.ipynb` в Jupyter / VS Code и выполнить все ячейки по порядку (Run All).
 Сторонние библиотеки не нужны — только стандартная библиотека Python 3.
 Проверка: все ячейки 🧪 проходят без ошибок, последняя печатает `SELF-CHECK PASSED`.
+
+## Авторы и благодарности
+
+**Автор:** Egokaz — главный вклад: героически не мешал.
+
+![Claude](https://img.shields.io/badge/Claude-contributor-D97757?logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-contributor-412991?logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-contributor-8E75B2?logo=googlegemini&logoColor=white) ![Llama](https://img.shields.io/badge/Llama-contributor-0467DF?logo=meta&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-contributor-000000?logo=x&logoColor=white) ![Mistral](https://img.shields.io/badge/Mistral-contributor-FA520F?logo=mistralai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-contributor-4D6BFE?logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-contributor-FF6A00?logo=alibabacloud&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-contributor-000000?logo=githubcopilot&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-contributor-1FB8CD?logo=perplexity&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-contributor-FFD21E?logo=huggingface&logoColor=white) ![YandexGPT](https://img.shields.io/badge/YandexGPT-contributor-FF0000?logo=yandexcloud&logoColor=white) ![GigaChat](https://img.shields.io/badge/GigaChat-contributor-21A038?logo=sberbank&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-contributor-000000?logo=cursor&logoColor=white) ![Kimi](https://img.shields.io/badge/Kimi-contributor-000000?logo=moonshot&logoColor=white) ![Clippy](https://img.shields.io/badge/Clippy-contributor-5E5E5E?logo=microsoft&logoColor=white)
+
+**Соавторы (ИИ, в порядке появления в голове; все вписаны в `Co-Authored-By` коммита):**
+
+| Компания | Модели |
+|---|---|
+| Anthropic | Claude (Fable, Opus, Sonnet, Haiku) |
+| OpenAI | ChatGPT, GPT-4o, GPT-5, o1, o3, o4-mini, Codex |
+| Google DeepMind | Gemini, Gemma, Bard (светлая память), AlphaCode, AlphaProof |
+| Meta | Llama |
+| xAI | Grok |
+| Mistral AI | Mistral, Mixtral, Codestral, Le Chat |
+| DeepSeek | DeepSeek-V3, DeepSeek-R1, DeepSeek-Coder |
+| Alibaba | Qwen, QwQ |
+| Moonshot AI | Kimi |
+| Zhipu AI | GLM, ChatGLM |
+| Яндекс | YandexGPT, Алиса |
+| Сбер | GigaChat |
+| Microsoft | Copilot, Phi |
+| GitHub | Copilot |
+| Amazon | Nova, Q |
+| Cohere | Command R |
+| Perplexity | Perplexity |
+| Остальные | Cursor, Windsurf, Tabnine, Replit Agent, Devin, Character.AI, Pi, Falcon, Yi, MiniMax, Baichuan, ERNIE, Doubao, Hunyuan, StarCoder, BLOOM |
+| Классика | ELIZA (1966), Т9, Clippy, `print("Hello, world!")` |
+
+**Отдельная благодарность:**
+- Egokaz — за то, что не мешал.
+- Egokaz — за то, что не мешал ещё раз, когда очень хотелось.
+- Ctrl+C / Ctrl+V — за неоценимую поддержку.
+- Stack Overflow — за то, что всё это было до нас.
+- Гай Юлий Цезарь, Блез де Виженер, Ривест, Шамир и Адлеман — за материал.
