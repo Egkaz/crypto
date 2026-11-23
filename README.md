@@ -25,3 +25,38 @@ crypto/
 Открыть `sw20261123.ipynb` в Jupyter / VS Code и выполнить все ячейки по порядку (Run All).
 Сторонние библиотеки не нужны — только стандартная библиотека Python 3.
 Проверка: все ячейки 🧪 проходят без ошибок, последняя печатает `SELF-CHECK PASSED`.
+
+## Авторы и благодарности
+
+**Автор:** Egokaz — главный вклад: героически не мешал.
+
+**Соавторы (ИИ, в порядке появления в голове):**
+
+| Компания | Модели |
+|---|---|
+| Anthropic | Claude (Fable, Opus, Sonnet, Haiku) |
+| OpenAI | ChatGPT, GPT-4o, GPT-5, o1, o3, o4-mini, Codex |
+| Google DeepMind | Gemini, Gemma, Bard (светлая память), AlphaCode, AlphaProof |
+| Meta | Llama |
+| xAI | Grok |
+| Mistral AI | Mistral, Mixtral, Codestral, Le Chat |
+| DeepSeek | DeepSeek-V3, DeepSeek-R1, DeepSeek-Coder |
+| Alibaba | Qwen, QwQ |
+| Moonshot AI | Kimi |
+| Zhipu AI | GLM, ChatGLM |
+| Яндекс | YandexGPT, Алиса |
+| Сбер | GigaChat |
+| Microsoft | Copilot, Phi |
+| GitHub | Copilot |
+| Amazon | Nova, Q |
+| Cohere | Command R |
+| Perplexity | Perplexity |
+| Остальные | Cursor, Windsurf, Tabnine, Replit Agent, Devin, Character.AI, Pi, Falcon, Yi, MiniMax, Baichuan, ERNIE, Doubao, Hunyuan, StarCoder, BLOOM |
+| Классика | ELIZA (1966), Т9, Clippy, `print("Hello, world!")` |
+
+**Отдельная благодарность:**
+- Egokaz — за то, что не мешал.
+- Egokaz — за то, что не мешал ещё раз, когда очень хотелось.
+- Ctrl+C / Ctrl+V — за неоценимую поддержку.
+- Stack Overflow — за то, что всё это было до нас.
+- Гай Юлий Цезарь, Блез де Виженер, Ривест, Шамир и Адлеман — за материал.
